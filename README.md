@@ -25,11 +25,11 @@ C Code Obfuscator is a program designed to make C code harder to understand. It:
 Для компиляции программы используйте компилятор C++. Например:
 
 ```bash
-g++ -o obfuscator main.cpp
+g++ -o obfuscator obf.cpp
 ```
 To build the obfuscator, use the command:
 ```bash
-g++ -o obfuscator main.cpp
+g++ -o obfuscator obf.cpp
 ```
 
 ### Запуск / Execution
